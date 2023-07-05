@@ -30,8 +30,8 @@
 			// (n^2)
 			twoDimension(b);*/
 
-
-
+			SpaceComplexity sp = new SpaceComplexity();
+			sp.greet();
 		}
 		static void log(int[] num)
 		{
